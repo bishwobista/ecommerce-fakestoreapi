@@ -28,7 +28,7 @@ const Home = () => {
             PRODUCTS
           </h2>
           <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900">
-            POPULAR PRODUCTS
+            ALL PRODUCTS
           </h1>
         </div>
         {
