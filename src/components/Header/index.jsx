@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const navigations = [
   {
     name: "Home",
-    path: "/",
+    path: "/home",
   },
   {
     name: "Products",
