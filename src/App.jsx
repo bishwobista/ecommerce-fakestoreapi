@@ -10,14 +10,15 @@ import Cart from './modules/Cart'
 function App() {
   return (
     <>
-      <Header/>
+      {/* <Header/>
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/products/:id' element={<Product/>}/>
         <Route path='/cart' element={<Cart/>}/>
       </Routes>
       
-      <Footer/>
+      <Footer/> */}
+      hello
     </>
   )
 }
