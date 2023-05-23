@@ -12,9 +12,9 @@ function App() {
     <>
       <Header/>
       <Routes>
-        <Route path='/ecommerce-fakestoreapi' element={<Home/>}/>
-        <Route path='/ecommerce-fakestoreapi/products/:id' element={<Product/>}/>
-        <Route path='/ecommerce-fakestoreapi/cart' element={<Cart/>}/>
+        <Route path='/' element={<Home/>}/>
+        <Route path='/products/:id' element={<Product/>}/>
+        <Route path='/cart' element={<Cart/>}/>
       </Routes>
       
       <Footer/>
