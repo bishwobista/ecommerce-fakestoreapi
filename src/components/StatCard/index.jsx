@@ -6,13 +6,14 @@ const StatCard = () => {
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
           <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
-            Master Cleanse Reliac Heirloom
+          It takes more than one sale to get successful.
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-            gentrify, subway tile poke farm-to-table. Franzen you probably
-            haven't heard of them man bun deep jianbing selfies heirloom prism
-            food truck ugh squid celiac humblebrag.
+
+
+ Prepare to be captivated by our vast selection of top-quality merchandise, spanning from trendy fashion apparel and accessories to cutting-edge electronics, home essentials, and much more. With our massive sales event, you'll discover unparalleled savings on your favorite brands and coveted items that will leave you in awe.
+<br /> <br />
+But it's not just about the discounts – we are committed to delivering an exceptional shopping experience from start to finish. Our user-friendly interface, seamless navigation, and secure payment options ensure that your shopping journey is effortless and stress-free. We pride ourselves on providing prompt and reliable shipping services, so you can enjoy your purchases without delay.
           </p>
         </div>
         <div className="flex flex-wrap -m-4 text-center">

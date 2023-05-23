@@ -3,13 +3,13 @@ import React from "react";
 const FeatureCard = () => {
   return (
     <section className="text-gray-600 body-font">
-      <div className="container px-5 py-24 mx-auto">
+      <div className="container px-5  mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
           <h2 className="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1">
-            ROOF PARTY POLAROID
+            This is the best part
           </h2>
           <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900">
-            Master Cleanse Reliac Heirloom
+          Amazing e-commerce platform for everyone.
           </h1>
         </div>
         <div className="flex flex-wrap -m-4">
@@ -30,13 +30,12 @@ const FeatureCard = () => {
                   </svg>
                 </div>
                 <h2 className="text-gray-900 text-lg title-font font-medium">
-                  Shooting Stars
+                Choose & customise a theme
                 </h2>
               </div>
               <div className="flex-grow">
                 <p className="leading-relaxed text-base">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine.
+                Customize the design of your shop from over thousands of themes. No design experience or programming skills required.
                 </p>
                 <a className="mt-3 text-indigo-500 inline-flex items-center">
                   Learn More
@@ -73,13 +72,12 @@ const FeatureCard = () => {
                   </svg>
                 </div>
                 <h2 className="text-gray-900 text-lg title-font font-medium">
-                  The Catalyzer
+                Add products
                 </h2>
               </div>
               <div className="flex-grow">
                 <p className="leading-relaxed text-base">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine.
+                Add your products to the shop. List your eye-catching products with the best photos, price and descriptions.
                 </p>
                 <a className="mt-3 text-indigo-500 inline-flex items-center">
                   Learn More
@@ -117,13 +115,12 @@ const FeatureCard = () => {
                   </svg>
                 </div>
                 <h2 className="text-gray-900 text-lg title-font font-medium">
-                  Neptune
+                Start selling
                 </h2>
               </div>
               <div className="flex-grow">
                 <p className="leading-relaxed text-base">
-                  Blue bottle crucifix vinyl post-ironic four dollar toast vegan
-                  taxidermy. Gastropub indxgo juice poutine.
+                Set up payments and shipping, and start selling.
                 </p>
                 <a className="mt-3 text-indigo-500 inline-flex items-center">
                   Learn More
